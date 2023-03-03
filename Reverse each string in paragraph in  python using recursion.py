@@ -11,4 +11,4 @@ def reverse(n):
 n=input("enter the paragraph: ")
 print(reverse(n))
 
-In paragraph reverse each string in python using multithreading
+
