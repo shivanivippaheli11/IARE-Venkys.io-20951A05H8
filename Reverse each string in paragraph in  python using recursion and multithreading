@@ -1,4 +1,4 @@
-Paragraph reverse each word in python using recursion
+In Paragraph reverse each string in python using recursion
 def reverse(n):
     if len(n)==0:
         return " "
@@ -11,3 +11,4 @@ def reverse(n):
 n=input("enter the paragraph: ")
 print(reverse(n))
 
+In paragraph reverse each string in python using multithreading
